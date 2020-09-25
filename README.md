@@ -2,10 +2,9 @@
 I am Shubham, currently in my final year of college, pursuing computer science. 
 - :earth_americas: I’m currently learning full stack web development
 - :computer: I have worked on ML/DL projects in the past but particularly interested in NLP :book:
-- :white_check_mark: I occassionaly do competitive programming\
-    ![Badge](https://cp-logo.vercel.app/codechef/pip33eed)
-    ![Badge](https://cp-logo.vercel.app/codeforces/shamdin)
-
+- :white_check_mark: I occasionally do competitive programming\
+    <a href="https://www.codechef.com/users/pip33eed">![Badge](https://cp-logo.vercel.app/codechef/pip33eed)</a>
+    <a href="https://codeforces.com/profile/shamdin">![Badge](https://cp-logo.vercel.app/codeforces/shamdin)</a>
 
 
 
