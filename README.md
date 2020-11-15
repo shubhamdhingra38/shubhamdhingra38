@@ -6,7 +6,6 @@ I am Shubham, currently in my final year of college, pursuing computer science.
     <a href="https://www.codechef.com/users/pip33eed">![Badge](https://cp-badges-git-fork-shubhamdhingra38-master.kehsihba19.vercel.app/codechef/pip33eed?logo=true)</a>
     <a href="https://codeforces.com/profile/shamdin">![Badge](https://cp-badges-git-fork-shubhamdhingra38-master.kehsihba19.vercel.app/codeforces/shamdin?logo=true)</a>
 
----
 
 
 ### Languages and Tools:
