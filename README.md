@@ -34,7 +34,8 @@ I am Shubham, currently in my final year of college, pursuing computer science.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shubhamdhingra38&show_icons=true&hide_border=true" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamdhingra38)
+
 
 </details>
 
