@@ -1,12 +1,13 @@
 ### Hi there 👋
-I am Shubham, currently in my final year of college, pursuing computer science. 
-- :earth_americas: I’m currently learning full stack web development
-- :computer: I have worked on ML/DL projects in the past but particularly interested in NLP :book:
+I am Shubham. I am a software developer 💻 currently working at 🛒 Amazon.
+- :page_with_curl: I’m currently learning about design patterns, cloud computing and trying to expand my knowledge in full stack web development.
+- :computer: I have ~1 year of work experience as a developer at product based companies.
+- :house: I usually spend my free time playing :chess_pawn: chess, binging :tv: Netflix or experimenting with new :technologist: technologies.
 - :white_check_mark: I occasionally do competitive programming\
     <a href="https://www.codechef.com/users/pip33eed">![Badge](https://cp-logo.vercel.app/codechef/pip33eed?logo=true)</a>
     <a href="https://codeforces.com/profile/shamdin">![Badge](https://cp-logo.vercel.app/codeforces/shamdin?logo=true)</a>
     <a href="https://leetcode.com/ShubhamDhingra/">![Badge](https://cp-logo.vercel.app/leetcode/ShubhamDhingra?logo=true)</a>
-
+    
 
 
 
@@ -26,15 +27,15 @@ I am Shubham, currently in my final year of college, pursuing computer science.
 <img align="left" alt="Java" width="20px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
 <img align="left" alt="Linux" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png"/>
 <img align="left" alt="MacOS" height="30px" src="https://images.macrumors.com/t/5BiCx6nBBb0fGUFWfLHjqaD1zFk=/1200x1200/smart/article-new/2018/02/macos-finder-icon.jpg"/>
-
+<img align="left" alt="MacOS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"/>
 <br />
 <br />
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:star: My GitHub Stats :star: </summary>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamdhingra38)
+ ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamdhingra38)
 
 
 </details>
@@ -48,3 +49,6 @@ I am Shubham, currently in my final year of college, pursuing computer science.
 [<img align="left" target="_blank" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+### Page Views: 
+![](https://komarev.com/ghpvc/?username=shubhamdhingra38)
