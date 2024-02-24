@@ -1,13 +1,9 @@
 ### Hi there 👋
 I am Shubham. I am a software developer 💻 currently working at 🛒 Amazon.
 - :page_with_curl: I’m currently learning about design patterns, cloud computing and trying to expand my knowledge in full stack web development.
-- :computer: I have ~2 year of work experience as a developer at product based companies.
+- :computer: I have ~3 year of work experience as a developer at product based companies.
 - :house: I usually spend my free time playing :chess_pawn: chess, binging :tv: Netflix or experimenting with new :technologist: technologies.
-- :white_check_mark: I occasionally do competitive programming\
-    <a href="https://www.codechef.com/users/pip33eed">![Badge](https://cp-logo.vercel.app/codechef/pip33eed?logo=true)</a>
-    <a href="https://codeforces.com/profile/shamdin">![Badge](https://cp-logo.vercel.app/codeforces/shamdin?logo=true)</a>
-    <a href="https://leetcode.com/ShubhamDhingra/">![Badge](https://cp-logo.vercel.app/leetcode/ShubhamDhingra?logo=true)</a>
-    
+
 
 
 
