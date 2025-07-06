@@ -18,12 +18,12 @@ I am Shubham. I am a software developer 💻 currently working at 🛒 Amazon.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Django" height="26px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
-<img align="left" alt="Python" height="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"/>
+<img align="left" alt="Django" width="60px" height="26px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
+<img align="left" alt="Python" width="40px" height="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"/>
 <img align="left" alt="Java" width="20px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
-<img align="left" alt="Linux" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png"/>
-<img align="left" alt="MacOS" height="30px" src="https://images.macrumors.com/t/5BiCx6nBBb0fGUFWfLHjqaD1zFk=/1200x1200/smart/article-new/2018/02/macos-finder-icon.jpg"/>
-<img align="left" alt="MacOS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"/>
+<img align="left" alt="Linux" width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png"/>
+<img align="left" alt="MacOS" width="40px" height="30px" src="https://images.macrumors.com/t/5BiCx6nBBb0fGUFWfLHjqaD1zFk=/1200x1200/smart/article-new/2018/02/macos-finder-icon.jpg"/>
+<img align="left" alt="AWS" width="40px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"/>
 <br />
 <br />
 
